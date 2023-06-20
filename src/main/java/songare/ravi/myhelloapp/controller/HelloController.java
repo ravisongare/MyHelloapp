@@ -10,5 +10,6 @@ public class HelloController {
     String hello(){
         System.out.println("Inside hello method");
         return "Hello world";
+        
     }
 }
